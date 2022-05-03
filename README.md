@@ -2,7 +2,7 @@
 
 Please find my charts here: https://public.tableau.com/app/profile/yang.yu5072
 It looks like this:
-![Image!](C:\Users\Doris\Desktop\GitHub\Tableau-challenge\Tableau.png)
+![MAP!](Tableau.png)
 
 
 
