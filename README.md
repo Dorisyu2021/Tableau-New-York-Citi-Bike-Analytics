@@ -1,6 +1,10 @@
 # Tableau New York Citi Bike Analytics
 
 Please find my charts here: https://public.tableau.com/app/profile/yang.yu5072
+It looks like this:
+
+
+
 
 The task is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena. Based on the questions we want to explore, there could be plenty of different maps and charts.
 
